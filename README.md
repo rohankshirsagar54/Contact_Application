@@ -13,15 +13,15 @@ Java, Spring Mvc, jquery, ajax, Jsp, jstl, Mysql, Maven, HtML, CSS, javascript
 
 ----About Project---
 
-Roles: User & Admin
-User Registration
-Login/logout
-Adding contact
-Edit contact
-List contact
-Search contact
-Delete contact
-Admin can see all registered users
+Roles: User & Admin,
+User Registration,
+Login/logout,
+Adding contact,
+Edit contact,
+List contact,
+Search contact,
+Delete contact,
+Admin can see all registered users,
 Admin can active or bloack user
 
 
